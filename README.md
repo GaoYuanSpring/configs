@@ -1,0 +1,2 @@
+# configs
+用来描述springcloud学习的组件config统一配置中心的文件
